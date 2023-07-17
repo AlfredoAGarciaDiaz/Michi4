@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Michi4</string>
+    <string name="Header">New Victoria Hospital</string>
+    <string name="txt_codigo">Room Number</string>
+    <string name="txt_descripcion">Allergen</string>
+    <string name="txt_precio">Precio del Producto</string>
+    <string name="BotonRegistrar">Check In</string>
+    <string name="BotonBuscar">Search</string>
+    <string name="BotonEliminar">Check Out</string>
+    <string name="BotonModificar">Modify</string>
+
+
+</resources>
